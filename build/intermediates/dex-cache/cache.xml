@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajmal Hussain\.android\build-cache\94348ffc7a70d02ffac6cd1ef6f8888f07afdee0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Ajmal Hussain\AndroidStudioProjects\LED\app\build\intermediates\pre-dexed\debug\classes_f2f8e150b8458433ccbf353e64ceb4913a493ab6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Ajmal Hussain\AndroidStudioProjects\LED\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajmal Hussain\.android\build-cache\1828ed0f924474a6e0696edee3d52c9bffd6c73a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Ajmal Hussain\AndroidStudioProjects\LED\app\build\intermediates\pre-dexed\debug\classes_b8d8cc832d08e06694915836fccc964545977463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajmal Hussain\.android\build-cache\94348ffc7a70d02ffac6cd1ef6f8888f07afdee0\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Ajmal Hussain\AndroidStudioProjects\LED\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_289d2d9d3da6c325e0a3d0f4155cffc19044c55e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajmal Hussain\.android\build-cache\8a3693ec694784d25c4a35a2f6d5dc7ca3af9e43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Ajmal Hussain\AndroidStudioProjects\LED\app\build\intermediates\pre-dexed\debug\classes_bcecd9631a35ce1cdba03f08340c9133975ca0db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Ajmal Hussain\AndroidStudioProjects\LED\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar" />
+    </item>
+
+</items>
